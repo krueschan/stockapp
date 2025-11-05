@@ -13,3 +13,4 @@ Imports:
     jsonlite,
     quantmod
 RoxygenNote: 7.2.3
+  
